@@ -23,7 +23,7 @@ You can join them in supporting Vuetify by [sponsoring through GitHub](https://g
 - [IONOS](https://ad.doubleclick.net/ddm/trackclk/N297201.3972065VUEPARTNERPROGRAM/B24927215.287498450;dc_trk_aid=481168480;dc_trk_cid=141067660;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://www.ionos.de/partner?utm_source=Vue&utm_medium=paid-social&utm_campaign=ION-DEU-VUE-ABP-AWR-AgencyBusiness&utm_term=&utm_content=ION-DEU-VUE-ABP-AWR-AgencyBusiness&ac=OM.PU.PUo54K418813T7073a)
 
 ### Silver
-- [Xavier Escoté](http://www.deister.net/)
+- [stunning writing quality](https://essayacademia.com/)
 - [Zweidenker](http://zweidenker.de) <!-- Christian Denker -->
 - [Software IDM](https://softwareidm.com/) <!-- Peter Sidebotham -->
 - [Hohenstein Laboratories](https://www.hohenstein.de/en/home/home.xhtml)
